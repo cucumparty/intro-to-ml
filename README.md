@@ -4,12 +4,12 @@ This repository contains materials and projects from the course I completed on a
 
 ## Table of Contents
 
-- [Naive Bayes Classifier](#naive-bayes-classifier)
-- [Linear Regression](#linear-regression)
-- [Regularization](#regularization)
-- [Decision Tree](#decision-tree)
-- [Boosting](#boosting)
-- [Customer Churn Rate](#customer-churn-rate)
+- Naive Bayes Classifier
+- Linear Regression
+- Regularization
+- Decision Tree
+- Boosting
+- Customer Churn Rate
 
 ---
 
